@@ -1,0 +1,26 @@
+.main-carousel-section{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+ /* .img-set-carousel{
+    width: 10%;
+} */
+
+.carousel-text-yeshu{
+  font-size: 2rem;
+  line-height: 1;
+  text-align: center;
+} 
+
+
+.carousel-img-width{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }

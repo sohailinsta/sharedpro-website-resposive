@@ -1,0 +1,24 @@
+.main-box{
+background-color: #ff4c68;
+color: #fff;
+margin-top: 25px;
+}
+
+.description {
+    font-size: x-large;
+    font-family: serif;
+}
+    /* font-weight: 800;
+    font-size: 3.5rem;
+    line-height: 1.5; */
+
+  .description-center{
+    text-align: center;
+    padding: 40px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .description{
+      font-size: large;
+    }
+}

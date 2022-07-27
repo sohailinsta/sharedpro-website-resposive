@@ -1,0 +1,33 @@
+.plan-text{
+    text-align: center;
+    padding-top: 46px;
+    font-size: 3rem;
+}
+
+.plan-text-two{
+    text-align: center;
+    font-size: 1.2rem;
+    color: #8f8f8f;
+}
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .pricing-column {
+    padding: 3% 5%;
+  }
+
+  .cards-center{
+    text-align: center;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .plan-text{
+      font-size: 1.5rem;
+    }
+
+    .price-text{
+      font-size: 2rem;
+    }
+}

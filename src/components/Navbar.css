@@ -1,0 +1,39 @@
+.arveam-size{
+    font-size: medium;
+    margin-left: 21px;
+}
+
+.left-shift{
+    margin-left: auto;
+}
+
+.product-space{
+    margin-right: 45px;
+}
+
+.price-space{
+    margin-right: 14px;
+}
+
+.logo-set-header{
+    width: 19px;
+    height: 19px;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.main-header{
+    color: #161515;
+}
+
+.main-header:hover{
+    color: #8f8f8f;
+}
+
+.nav-link {
+    display: inline-block;
+}
+
+.contact-text-align{
+    margin-left: 21px;
+}
